@@ -3,7 +3,7 @@ document.title = gameName;
 document.querySelector("h1").append(gameName);
 document.querySelector(
   "footer"
-).innerHTML = `${gameName} Game Created By Elzero Web School`;
+).innerHTML = `${gameName} Game Created By Siraj Mohamed`;
 // Sitting Game Options //
 
 let numberOfTries = 6;
